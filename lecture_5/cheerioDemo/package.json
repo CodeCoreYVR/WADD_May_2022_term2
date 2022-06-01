@@ -1,0 +1,21 @@
+{
+  "name": "cheeriodemo",
+  "version": "0.0.0",
+  "description": "Webscraping using Cheerio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webscrapping"
+  ],
+  "author": "Naveed",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.11",
+    "cowsay": "^1.5.0"
+  }
+}
